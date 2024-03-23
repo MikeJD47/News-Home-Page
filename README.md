@@ -37,7 +37,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://your-solution-url.com)
+- Solution URL: [My solution](https://mikejd47.github.io/News-Home-Page/)
 
 ## My process
 
